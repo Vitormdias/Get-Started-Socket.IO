@@ -1,0 +1,23 @@
+{
+  "name": "socket101",
+  "version": "1.0.0",
+  "description": "Small app with socket.IO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitormdias/Get-Started-Socket.IO.git"
+  },
+  "author": "Vitor Manfre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitormdias/Get-Started-Socket.IO/issues"
+  },
+  "homepage": "https://github.com/Vitormdias/Get-Started-Socket.IO#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}
